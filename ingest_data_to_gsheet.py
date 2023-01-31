@@ -58,5 +58,3 @@ def ingest_data_to_gsheet():
     return print("sended to gsheet")
 
 
-if __name__ == "__main__":
-    ingest_data_to_gsheet()
