@@ -1,7 +1,7 @@
 # Interview_section
 ## Tools
-Python
-BigQuery
+Python,
+BigQuery, and 
 Google Sheet
 
 
