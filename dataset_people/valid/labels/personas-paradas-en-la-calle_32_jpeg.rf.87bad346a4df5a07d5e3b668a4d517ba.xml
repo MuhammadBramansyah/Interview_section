@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>personas-paradas-en-la-calle_32_jpeg.rf.87bad346a4df5a07d5e3b668a4d517ba.jpg</filename>
+	<path>personas-paradas-en-la-calle_32_jpeg.rf.87bad346a4df5a07d5e3b668a4d517ba.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>360</xmin>
+			<xmax>491</xmax>
+			<ymin>226</ymin>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

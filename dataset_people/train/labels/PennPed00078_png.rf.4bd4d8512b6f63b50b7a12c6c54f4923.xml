@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>PennPed00078_png.rf.4bd4d8512b6f63b50b7a12c6c54f4923.jpg</filename>
+	<path>PennPed00078_png.rf.4bd4d8512b6f63b50b7a12c6c54f4923.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>316</xmin>
+			<xmax>459</xmax>
+			<ymin>83</ymin>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
